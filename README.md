@@ -1,6 +1,6 @@
 - 👋 Olá,  @ReberteMartins
 - 👀 Estou interessado em Desenvolvimento Web
-- 🌱 Sou tecnico em redes de computadores e cursando o 3° periodo de Ciéncias da Computação
+- 🌱 Sou tecnico em redes de computadores e cursando o 4° periodo de Ciéncias da Computação
 - 📫 Como me achar:
       Instagram: @rebertemartins
 <!---
